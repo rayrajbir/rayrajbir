@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm <a href="https://github.com/rayrajbir">rajbir ray</a> 👋</h1>
+<h1 align="center">Hi, i'm <a href="https://github.com/rayrajbir">rajbir ray</a> 👋</h1>
 <h3 align="center">welcome to my GitHub profile 🚀</h3>
 
 <p align="center">final-year computer engineering student • ai/ml engineer in training • full-stack + data enthusiast</p>
